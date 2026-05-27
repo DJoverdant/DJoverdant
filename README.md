@@ -1,14 +1,15 @@
 ## ✉ Contact:
 
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:andreestevesarantes19@gmail.com) 
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:andreestevesarantes19@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andréestevesarantes-3b5272235)
 
 ## 💻 Skills:
+
 ###### Languages and Frameworks:
 
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  </br>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) </br>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass)
@@ -18,7 +19,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)  </br>
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) </br>
 
 ###### Databases:
 
@@ -41,6 +42,12 @@
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=DJoverdant&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=DJoverdant&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DJoverdant&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<a href="https://git.io/streak-stats">
+  <img src=https://github-readme-streak-stats-tau-ruddy.vercel.app?user=DJoverdant&theme=rising-sun&hide_border=true&border_radius=10>
+</a>
+
+</br>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src=https://github-readme-stats-333y.vercel.app/api/top-langs/?username=DJoverdant&hide_border=true&border_radius=10&langs_count=4&show_icons=true&card_width=495&theme=dark&hide=javascript,html,css,scss,php>
+</a>
